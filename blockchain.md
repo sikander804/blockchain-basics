@@ -55,3 +55,5 @@ Blockchain is run by different nodes, with all these different nodes are running
 
 _GAS is a unit of computational measurement_
 **The more complex your transaction is the more GAS you have to pay**
+
+### Keccak256 is an essential component of the Ethereum blockchain, serving as its primary hash function.
