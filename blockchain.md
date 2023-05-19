@@ -42,3 +42,16 @@ The permissioned web, wirh dynamic content where companies run agreement on thei
 The permissionless web, with dynamic content.where centralized censorship resistant network runs your agreement and code.
 
 ##### smart contracts do trust minimized agreements, or they give unbreakable promises.
+
+Smart contracts are
+
+Immutable
+Decentralized
+Transparent
+
+### Introduction to GAS:
+
+Blockchain is run by different nodes, with all these different nodes are running this blockchain because they actually get paid for all the transactions that happens on these blockchain. whenever you make a transaction, there is a node or a validator/miners make a small fee. and these validators/miners gets paid based on how much _GAS_ you used.
+
+_GAS is a unit of computational measurement_
+**The more complex your transaction is the more GAS you have to pay**
